@@ -1,0 +1,6 @@
+name: OPSync
+main: me.joeleoli.opsync.OPSync
+authors: [joeleoli]
+version: 1.0
+commands:
+  opsync:
